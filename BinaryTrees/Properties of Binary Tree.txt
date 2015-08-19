@@ -7,3 +7,20 @@ PROPERTIES OF BINARY TREE
 3. For a Binary tree having 'N' nodes, the minimum possible height or minimum number of levels present are [logbase2(N + 1)]
 4. A binary tree having 'L' leaves has atleast [log(L)] + 1
 5. In Binary trees, the number of leaf nodes is always one more than the Internal nodes having two children.
+6. Self balancing search trees like AVL, Red black trees.
+
+--------------------
+Traversal algorithms
+--------------------
+
+Depth First Traversal
+---------------------
+
+1. Inorder Traversal ==> Left Subtree + root + Right Subtree ==> BST(non-decreasing order)
+2. Preorder Traversal ==> root + Left Subtree + Right Subtree ==> Is used to create a copy of a tree, create a prefix expression.
+3. Postorder Traversal ==> Left Subtree + Right Subtree ==> Is used to delete a tree, create a postfix expression.
+
+Breadth First Traversal
+-----------------------
+
+1. Level Traversal ==> Level by level
