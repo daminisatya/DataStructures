@@ -3,6 +3,7 @@
     number occurs in its permutations.
     eg. 123 can be done as (123, 132, 213, 231, 312, 321) index is 1, min rank of 123 is 1 similarly
     241 can be (124,142,214,241,412,421) index is 4, min rank of 241 is 4
+    
 */
 
 #include <stdio.h>
