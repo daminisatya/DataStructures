@@ -1,2 +1,2 @@
 # DataStructures
-All datastructures programs
+All datastructures programs in c
